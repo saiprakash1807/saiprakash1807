@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on making backends faster, lighter, and less angry<br>I'm looking to contribute on Open Source Backend projects<br>Fun Fact : I argue with my code more than people 😂
 
 
