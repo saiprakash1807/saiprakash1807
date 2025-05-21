@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on making backends faster and lighter<br>I'm looking to contribute on Open Source Backend projects<br>Fun Fact : I argue with my code more than people 😂
+I'm currently working on making backends faster and lighter<br>I'm looking to contribute on Open Source Backend projects<br>
 
 
 ## 🌐 Socials:
